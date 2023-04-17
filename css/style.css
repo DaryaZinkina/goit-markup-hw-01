@@ -1,0 +1,137 @@
+.header-logo link{
+      
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 21px;
+    color: #4D5AE5;
+}
+
+.studio-logo{
+    /* Studio */
+       
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 21px;
+    color: #2E2F42;
+}
+
+.link {
+    /* NAVY BLUE */
+     color: #2E2F42;
+}
+
+.studio{
+width: 48px;
+height: 24px;
+}
+
+.portfolio{
+width: 66px;
+height: 24px;
+}
+
+.contacs{
+width: 67px;
+height: 24px;
+}
+
+.body-medium{
+/* Body Medium */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+}
+
+.body{
+/* Body */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* SLATE */
+
+color: #434455;
+}
+
+.dark-bg{
+    position:absolute;
+    width: 1440px;
+    height: 600px;
+    left: 0px;
+    top: 72px;
+    
+    /* NAVY BLUE */
+    
+    background: #2E2F42;
+}
+
+.text-absolute{
+position: absolute;
+width: 496px;
+height: 120px;
+left: 472px;
+top: 260px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 60px;
+/* or 107% */
+color: #FFFFFF;
+}
+
+
+.button{
+/* Button */
+
+    position: absolute;
+    width: 169px;
+    height: 56px;
+    left: 636px;
+    top: 428px;
+    color: #FFFFFF;
+    /* IRIS */
+
+    background: #4D5AE5;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+}
+
+.header{
+/* Header 3 */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height, or 120% */
+
+letter-spacing: 0.02em;
+
+/* NAVY BLUE */
+
+color: #2E2F42;
+}
+
+.strategy{
+width: 264px;
+height: 24px;  
+}
+.what-we{
+    position: absolute;
+    width: 323px;
+    height: 40px;
+    left: 559px;
+    top: 1016px;
+    }
